@@ -295,20 +295,8 @@ SMTP_HOST=email-smtp.us-east-1.amazonaws.com
 - ✅ **Componentes funcionales** con hooks
 - ✅ **Nomenclatura consistente**
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.md) para detalles.
-
-## 📞 Soporte
-
-Para soporte técnico o consultas sobre el proyecto:
-
-- 📧 **Email**: [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/tu-usuario/service-auto-glass-llc/issues)
-- 📚 **Documentación**: Ver [`README-DIRECTUS.md`](./README-DIRECTUS.md)
-
 ---
 
-## 🏆 Desarrollado con ❤️ para Service Auto Glass LLC
+## 🏆 Desarrollado para Service Auto Glass LLC
 
 ### Especialistas en reemplazo de vidrios automotrices en Fort Worth, Texas
