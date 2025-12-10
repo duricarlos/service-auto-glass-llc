@@ -2,7 +2,7 @@
 
 Una landing page moderna y completamente funcional para Service Auto Glass LLC, empresa especializada en reemplazo de vidrios automotrices en Fort Worth, Texas. El proyecto incluye integración con CMS, sistema de emails automatizado y múltiples capas de seguridad.
 
-![Next.js](https://img.shields.io/badge/Next.js-15.4.3-black?style=for-the-badge&logo=next.js)
+![Next.js](https://img.shields.io/badge/Next.js-16.0.8-black?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![Directus](https://img.shields.io/badge/Directus-CMS-6644FF?style=for-the-badge&logo=directus)
@@ -55,7 +55,7 @@ Una landing page moderna y completamente funcional para Service Auto Glass LLC, 
 
 ### **Frontend**
 
-- **[Next.js 15.4.3](https://nextjs.org/)** - Framework React con SSR
+- **[Next.js 16.0.8](https://nextjs.org/)** - Framework React con SSR
 - **[TypeScript 5.0](https://www.typescriptlang.org/)** - Tipado estático
 - **[Tailwind CSS 4.0](https://tailwindcss.com/)** - Framework CSS utility-first
 - **[shadcn/ui](https://ui.shadcn.com/)** - Componentes UI reutilizables
